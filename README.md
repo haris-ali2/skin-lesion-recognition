@@ -28,5 +28,5 @@
  - Exploratory data analysis (EDA) is being performed.
  - The AI model for recognition and classification being developed.
  - The proposed model:
-    - Encoder-Decoder structure architecture based on convolutional neural networ
+    - Encoder-Decoder structure architecture based on convolutional neural network.
     - Simultaneuosly getting a softmax output for the classification of the type of lesion.
