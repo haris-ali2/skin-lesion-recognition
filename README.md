@@ -15,9 +15,9 @@
  
  - The sample from the data can be seen here. The title of the images are the type of lesion, provided in the metadata file.
     
-    <img src="data/sample.png" alt="Result 1" style="height: 150px;width:750px;"/>
+    <img src="data/sample_2.png" alt="Result 1" style="height: 150px;width:750px;"/>
  - The corresponding ground truth segmented masks are as follows.
-    <img src="data/sample_seg.png" alt="Result 1" style="height: 150px;width:750px;"/>
+    <img src="data/sample_seg_2.png" alt="Result 1" style="height: 150px;width:750px;"/>
 
 # Objective
 
